@@ -1,0 +1,3 @@
+name: SpleefDuel
+version: '${version}'
+main: me.dess1rous.spleefduel.Main
